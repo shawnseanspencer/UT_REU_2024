@@ -30,3 +30,5 @@ plt.xlabel('kx')
 plt.ylabel('ky')
 plt.title(f'Fermi Surface (E_f = {fermi_energy} eV)')
 plt.grid(True)
+
+plt.show()
